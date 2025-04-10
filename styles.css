@@ -34,7 +34,14 @@ body {
     color: white;
 }
 
-
+.header {
+    background-color: #222;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
 .hero-title {
     font-size: 32px;
     margin-bottom: 10px;
